@@ -1,0 +1,6 @@
+{
+  "name": "Cairo Flap: Rooftop Pigeon",
+  "description": "Guide Zagloul, Cairo's tarboosh-wearing rooftop pigeon, past iconic minarets, the Cairo Tower, and ancient obelisks while collecting koshary bowls and golden piastres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
